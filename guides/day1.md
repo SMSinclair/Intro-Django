@@ -6,6 +6,7 @@
 * Clone your repo
   * (If you cloned the Hello-Django repo, delete the file `requirements.txt`!)
 * Go to your repo root directory
+* Set up virtual environment
 * `pipenv --three`
 * `pipenv install`
 * `pipenv shell`
